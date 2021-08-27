@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    background-color :indianred;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.card{
+    background :chartreuse;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 4px 4px gray;
+    width: 400px;
+    display: inline-block;
+
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.card-desc{
+    margin-bottom: 5px;
+    text-align: justify;
+
+}
+.card-footer{
+    text-align: center;
+    font-weight: bold;
+}
