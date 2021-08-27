@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/rana/static/js/main.8eed43ed.chunk.js",
-    "main.js.map": "/rana/static/js/main.8eed43ed.chunk.js.map",
-    "runtime-main.js": "/rana/static/js/runtime-main.fe1edc8e.js",
-    "runtime-main.js.map": "/rana/static/js/runtime-main.fe1edc8e.js.map",
-    "static/js/2.3e6390d4.chunk.js": "/rana/static/js/2.3e6390d4.chunk.js",
-    "static/js/2.3e6390d4.chunk.js.map": "/rana/static/js/2.3e6390d4.chunk.js.map",
-    "index.html": "/rana/index.html",
-    "static/js/2.3e6390d4.chunk.js.LICENSE.txt": "/rana/static/js/2.3e6390d4.chunk.js.LICENSE.txt"
+    "main.js": "/React-card/static/js/main.8eed43ed.chunk.js",
+    "main.js.map": "/React-card/static/js/main.8eed43ed.chunk.js.map",
+    "runtime-main.js": "/React-card/static/js/runtime-main.2b3a1896.js",
+    "runtime-main.js.map": "/React-card/static/js/runtime-main.2b3a1896.js.map",
+    "static/js/2.3e6390d4.chunk.js": "/React-card/static/js/2.3e6390d4.chunk.js",
+    "static/js/2.3e6390d4.chunk.js.map": "/React-card/static/js/2.3e6390d4.chunk.js.map",
+    "index.html": "/React-card/index.html",
+    "static/js/2.3e6390d4.chunk.js.LICENSE.txt": "/React-card/static/js/2.3e6390d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe1edc8e.js",
+    "static/js/runtime-main.2b3a1896.js",
     "static/js/2.3e6390d4.chunk.js",
     "static/js/main.8eed43ed.chunk.js"
   ]
